@@ -2,7 +2,7 @@
 
 
 
-## Links
+### Useful links
 -**Journal of Computational and Graphical Statistics** (2区)
 
 https://www.tandfonline.com/toc/ucgs20/current
