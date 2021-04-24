@@ -3,13 +3,16 @@
 
 
 ## Links
-Journal of Computational and Graphical Statistics (2区)
+-**Journal of Computational and Graphical Statistics** (2区)
+
 https://www.tandfonline.com/toc/ucgs20/current
 
-Computational Statistics & Data Analysis (3区)
+-**Computational Statistics & Data Analysis** (3区)
+
 https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis
 
-Journal of Computational and Applied Mathematics 
+-**Journal of Computational and Applied Mathematics**
+
 https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics
 
 
