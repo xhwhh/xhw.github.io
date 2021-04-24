@@ -1,6 +1,4 @@
-### Welcome to xhw's Homepage
-
-
+Welcome to xhw's homepage
 
 ### Useful links
 - **[Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)** (2区)
