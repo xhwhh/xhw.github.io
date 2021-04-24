@@ -3,9 +3,9 @@
 
 
 ### Useful links
-- **Journal of Computational and Graphical Statistics** (2区)
+- **[Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)** (2区)
 
-https://www.tandfonline.com/toc/ucgs20/current
+
 
 - **Computational Statistics & Data Analysis** (3区)
 
