@@ -1,7 +1,8 @@
 Welcome to xhw's homepage
 
 ### Useful links
-- **[Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)** [^_^]:(2区)
+- **[Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)** 
+[^_^]: (2区)
 
 - **[Computational Statistics & Data Analysis](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis)** [^_^]:(3区)
 
@@ -12,5 +13,4 @@ Welcome to xhw's homepage
 - **[Graphical Models](https://www.sciencedirect.com/journal/graphical-models)**
 
 
- this
 
