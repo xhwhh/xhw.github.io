@@ -6,7 +6,7 @@ Hefei 230009, China
 
 
 ### My publications
-[^1]： **Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Vol.85, 101969, 2021.
+[1] **Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Vol.85, 101969, 2021.
 
 ### Academic Conferences
 - [CM 2021](http://www.mmrc.iss.ac.cn/cscm/cm2021/index.html)
