@@ -8,7 +8,7 @@ Hefei 230009, China
 ### My publications
 [1] **Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Vol.85, 101969, 2021.
 
-[2] Qian Ni, Xuhui Wang, Jiansong Deng, *[Modified basis functions for MPHT-splines](https://www.sciencedirect.com/science/article/pii/S0377042720301084)*,
+[2] Qian Ni, **Xuhui Wang**, Jiansong Deng, *[Modified basis functions for MPHT-splines](https://www.sciencedirect.com/science/article/pii/S0377042720301084)*,
 Journal of Computational and Applied Mathematics, Volume 375, 112817, 2020.
 
 ### Academic Conferences
