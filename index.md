@@ -1,5 +1,7 @@
 **Xuhui Wang** 
-School of Mathematics, Hefei University of Technology Hefei 230009, China
+
+School of Mathematics, HFUT
+Hefei 230009, China
 
 
 ### My publications
