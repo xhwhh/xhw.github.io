@@ -8,7 +8,7 @@ Hefei 230009, China
 #### Publication list
 [1] **Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Vol.85, 2021, 101969. 
 
-[2] Ni, Qian, Jiansong Deng, **Xuhui Wang**, *[An adaptive collocation method with weighted extended PHT-splines](https://link.springer.com/article/10.1007/s11424-020-9390-7)*, Journal of Systems Science and Complexity, 34.1, 2021, 47-67.
+[2] Qian Ni, Jiansong Deng, **Xuhui Wang**, *[An adaptive collocation method with weighted extended PHT-splines](https://link.springer.com/article/10.1007/s11424-020-9390-7)*, Journal of Systems Science and Complexity, 34.1, 2021, 47-67.
 
 [3] Qian Ni, **Xuhui Wang**, Jiansong Deng, *[Modified basis functions for MPHT-splines](https://www.sciencedirect.com/science/article/pii/S0377042720301084)*,
 Journal of Computational and Applied Mathematics, Volume 375, 2020, 112817.
