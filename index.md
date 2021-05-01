@@ -5,7 +5,7 @@ School of Mathematics, HFUT
 Hefei 230009, China
 
 
-#### <u>My publications</u>
+#### Publication list
 [1] **Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Vol.85, 2021, 101969. 
 
 [2] Ni, Qian, Jiansong Deng, **Xuhui Wang**, *[An adaptive collocation method with weighted extended PHT-splines](https://link.springer.com/article/10.1007/s11424-020-9390-7)*, Journal of Systems Science and Complexity, 34.1, 2021, 47-67.
