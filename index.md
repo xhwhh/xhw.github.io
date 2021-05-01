@@ -15,6 +15,32 @@ Journal of Computational and Applied Mathematics, Volume 375, 2020, 112817.
 
 [4] Meng Wu, **Xuhui Wang**, *[A H1-integrability condition of surfaces with singular parametrizations in isogeometric analysis](https://www.sciencedirect.com/science/article/pii/S0045782517307685)*, Computer Methods in Applied Mechanics and Engineering, Volume 332, 2018, 136-156.
 
+[5] Juan Du, Ron Goldman, **Xuhui Wang**, *[Rational curves over generalized complex numbers](https://www.sciencedirect.com/science/article/pii/S0747717118300397)*, Journal of Symbolic Computation, 11, Volume 93, 2018, 56-84.
+
+
+[6] **Xuhui Wang**, Falai Chen, Implicitization, parameterization and singularity computation of Steiner surfaces using moving surfaces, Journal of Symbolic Computation, Volume 47(6), 2012, 733-750.
+
+
+[7] Ron Goldman, **Xuhui Wang**, Two additional advantages of complex μ-bases for non-ruled real quadric surfaces, Computer Aided Geometric Design, Volume 42, 2016, 31-33.
+
+
+[8] Tom Sederberg, Ron Goldman, **Xuhui Wang**, Birational 2D Free-Form Deformation of degree 1×n, Computer Aided Geometric Design, Volume 44, 2016, 1-9.
+
+
+[9] **Xuhui Wang**, Ron Goldman, Quaternion rational surfaces: Rational surfaces generated from the quaternion product of two rational space curves, Graphical Models, 2015, 18-32.
+
+
+[10] Xiaoran Shi, **Xuhui Wang**, Ron Goldman, Using μ-bases to implicitize rational surfaces with a pair of orthogonal directrices, Computer Aided Geometric Design, Volume 29(7), 2012, 541-554.
+
+
+[11] **Xuhui Wang**, Ron Goldman, μ-Bases for complex rational curves, Computer Aided Geometric Design, Volume 30(7), 2013, 623-635.
+
+
+[12] **Xuhui Wang**, Ron Goldman, Tom Sederberg, Explicit μ-bases for conic sections and planar rational cubic curves, Computer Aided Geometric Design, Volume 41, 2016, 62-75. 
+
+
+[13] Ron Goldman, Tom Sederberg, **Xuhui Wang**, Complex μ-bases for real quadric surfaces, Computer Aided Geometric Design, Volume 37, 2015, 57-68.
+
 
 
 ### Academic Conferences
