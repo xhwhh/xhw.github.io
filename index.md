@@ -40,6 +40,7 @@ Journal of Computational and Applied Mathematics, Volume 375, 2020, 112817.
 #### Academic Conferences
 - [CM 2021](http://www.mmrc.iss.ac.cn/cscm/cm2021/index.html)
 - [CAD&CG 2021](http://cs.dlut.edu.cn/CADCG2021/CADCG2021hyzg.htm)
+- [GMP 2021](http://www.kma.zcu.cz/gmp2021/index.php?clanek=home)
 
 #### Useful links:
 - [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)
