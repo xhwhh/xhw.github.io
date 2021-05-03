@@ -22,7 +22,7 @@ Hefei 230009, China
 
 [8] 	Ron Goldman, **Xuhui Wang**, *[Two additional advantages of complex μ-bases for non-ruled real quadric surfaces](https://www.sciencedirect.com/science/article/pii/S0167839615001466)*, Computer Aided Geometric Design, Volume 42, 2016, 31-33.
 
-[9] 	Juan Du, Ron Goldman, **Xuhui Wang**, *[Rational curves over generalized complex numbers](https://www.sciencedirect.com/science/article/pii/S0747717118300397)*, Journal of Symbolic Computation, 11, Volume 93, 2018, 56-84.
+[9] 	Juan Du, Ron Goldman, **Xuhui Wang**, *[Rational curves over generalized complex numbers](https://www.sciencedirect.com/science/article/pii/S0747717118300397)*, Journal of Symbolic Computation, Volume 93(11), 2018, 56-84.
 
 [10] 	Meng Wu, **Xuhui Wang**, *[A H1-integrability condition of surfaces with singular parametrizations in isogeometric analysis](https://www.sciencedirect.com/science/article/pii/S0045782517307685)*, Computer Methods in Applied Mechanics and Engineering, Volume 332, 2018, 136-156.
 
