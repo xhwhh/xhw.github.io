@@ -14,7 +14,7 @@ Hefei 230009, China
 
 [4] 	Ron Goldman, Tom Sederberg, **Xuhui Wang**, *[Complex μ-bases for real quadric surfaces](https://www.sciencedirect.com/science/article/pii/S0167839615000849)*, Computer Aided Geometric Design, Volume 37, 2015, 57-68.
 
-[5] 	**Xuhui Wang**, Ron Goldman, *[Quaternion rational surfaces: Rational surfaces generated from the quaternion product of two rational space curves](https://www.sciencedirect.com/science/article/pii/S1524070314000289)*, Graphical Models, 2015, 18-32.
+[5] 	**Xuhui Wang**, Ron Goldman, *[Quaternion rational surfaces: Rational surfaces generated from the quaternion product of two rational space curves](https://www.sciencedirect.com/science/article/pii/S1524070314000289)*, Graphical Models, 2015, Volumn 81, 18-32.
 
 [6] 	**Xuhui Wang**, Ron Goldman, Tom Sederberg, *[Explicit μ-bases for conic sections and planar rational cubic curves](https://www.sciencedirect.com/science/article/pii/S0167839615001351)*, Computer Aided Geometric Design, Volume 41, 2016, 62-75.
 
@@ -30,9 +30,9 @@ Hefei 230009, China
 
 [12] 	Qian Ni, **Xuhui Wang**, Jiansong Deng, *[Modified basis functions for MPHT-splines](https://www.sciencedirect.com/science/article/pii/S0377042720301084)*, Journal of Computational and Applied Mathematics, Volume 375, 2020, 112817.
 
-[13] 	**Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Vol.85, 2021, 101969. 
+[13] 	**Xuhui Wang**, Meng Wu, Yuan Liu and Qian Ni, *[Constructing quadratic birational maps via their complex rational representation](https://www.sciencedirect.com/science/article/pii/S0167839621000157)*, Computer Aided Geometric Design, Volume 85, 2021, 101969. 
 
-[14] 	Qian Ni, Jiansong Deng, **Xuhui Wang**, *[An adaptive collocation method with weighted extended PHT-splines](https://link.springer.com/article/10.1007/s11424-020-9390-7)*, Journal of Systems Science and Complexity, 34.1, 2021, 47-67.
+[14] 	Qian Ni, Jiansong Deng, **Xuhui Wang**, *[An adaptive collocation method with weighted extended PHT-splines](https://link.springer.com/article/10.1007/s11424-020-9390-7)*, Journal of Systems Science and Complexity, Volumn 34(1), 2021, 47-67.
 
 
 #### Academic Conferences
