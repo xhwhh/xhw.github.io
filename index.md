@@ -39,6 +39,7 @@ Hefei 230009, China
 - [CM 2021](http://www.mmrc.iss.ac.cn/cscm/cm2021/index.html)
 - [CAD&CG 2021](http://cs.dlut.edu.cn/CADCG2021/CADCG2021hyzg.htm)
 - [GMP 2021](http://www.kma.zcu.cz/gmp2021/index.php?clanek=home)
+- [SMI 2021](https://smi2021.github.io/)
 
 #### Useful links:
 - [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)
