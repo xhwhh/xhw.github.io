@@ -4,6 +4,19 @@ School of Mathematics, HFUT
 
 Hefei 230009, China
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Xuhui Wang</h1>
+      <p><b>School of Mathematics, HFUT</b></p>
+      <p><b>邮箱：xhw(at)hfut.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/sanxing.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 
 #### Publication list
 [1] 	**Xuhui Wang**, Falai Chen, *[Implicitization, parameterization and singularity computation of Steiner surfaces using moving surfaces](https://www.sciencedirect.com/science/article/pii/S0747717111002227)*, Journal of Symbolic Computation, Volume 47(6), 2012, 733-750.
