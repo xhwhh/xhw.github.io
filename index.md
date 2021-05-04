@@ -1,5 +1,4 @@
 <table border="0">
-  <tr>
     <td width="50%">
       <p><b>Xuhui Wang</b></p>
       <p><b>School of Mathematics, HFUT</b></p>
@@ -8,7 +7,6 @@
     <td width="50%">
       <img src="/sanxing.jpg" width="100%">     
     </td>
-  </tr>
 </table>
 
 
