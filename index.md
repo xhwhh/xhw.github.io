@@ -6,13 +6,13 @@ Hefei 230009, China
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Xuhui Wang</h1>
       <p><b>School of Mathematics, HFUT</b></p>
       <p><b>邮箱：xhw(at)hfut.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/sanxing.jpg" width="100%">      % 插入证件照代码
+      <img src="/sanxing.jpg" width="60%">     
     </td>
   </tr>
 </table>
