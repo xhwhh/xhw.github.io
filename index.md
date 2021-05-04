@@ -1,12 +1,12 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <h1>Xuhui Wang</h1>
+      <p><b>Xuhui Wang</b></p>
       <p><b>School of Mathematics, HFUT</b></p>
       <p><b>Hefei 230009, China</b></p>
     </td>
-    <td width="25%">
-      <img src="/sanxing.jpg" width="60%">     
+    <td width="50%">
+      <img src="/sanxing.jpg" width="100%">     
     </td>
   </tr>
 </table>
