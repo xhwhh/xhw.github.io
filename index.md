@@ -9,6 +9,15 @@
     </td>
 </table>
 
+<div id="menu" style="background-color:#FFD700;height:200px;width:100px;float:left;">
+<b>菜单</b><br>
+HTML<br>
+CSS<br>
+JavaScript</div>
+ 
+<div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
+内容在这里</div>
+
 
 #### Publication list
 [1] 	**Xuhui Wang**, Falai Chen, *[Implicitization, parameterization and singularity computation of Steiner surfaces using moving surfaces](https://www.sciencedirect.com/science/article/pii/S0747717111002227)*, Journal of Symbolic Computation, Volume 47(6), 2012, 733-750.
