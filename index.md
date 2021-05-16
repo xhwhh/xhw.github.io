@@ -40,6 +40,7 @@
 
 
 #### Academic Conferences
+**2021**
 - [CM 2021](http://www.mmrc.iss.ac.cn/cscm/cm2021/index.html)
 - [CAD&CG 2021](http://cs.dlut.edu.cn/CADCG2021/CADCG2021hyzg.htm)
 - [GMP 2021](http://www.kma.zcu.cz/gmp2021/index.php?clanek=home)
