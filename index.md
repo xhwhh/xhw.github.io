@@ -1,8 +1,8 @@
 <table border="0">
     <td width="60%">
       <p><b>Xuhui Wang</b></p>
-      <p><b>School of Mathematics, HFUT</b></p>
-      <p><b>Hefei 230009, China</b></p>
+      <p><b>Hohai University</b></p>
+      <p><b>Nanjing, China</b></p>
     </td>
     <td width="40%">
       <img src="/shanshui.jpg" width="80%">     
