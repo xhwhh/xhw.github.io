@@ -5,7 +5,7 @@
       <p><b>Hefei 230009, China</b></p>
     </td>
     <td width="40%">
-      <img src="/sanxing.jpg" width="80%">     
+      <img src="/shanshui.jpg" width="80%">     
     </td>
 </table>
 
