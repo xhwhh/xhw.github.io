@@ -1,13 +1,3 @@
-<table border="0">
-    <td width="60%">
-      <p><b>Xuhui Wang</b></p>
-      <p><b>Hohai University</b></p>
-      <p><b>Nanjing, China</b></p>
-    </td>
-    <td width="40%">
-      <img src="/shanshui.jpg" width="80%">     
-    </td>
-</table>
 
 #### Publication list
 [1] 	**Xuhui Wang**, Falai Chen, *[Implicitization, parameterization and singularity computation of Steiner surfaces using moving surfaces](https://www.sciencedirect.com/science/article/pii/S0747717111002227)*, Journal of Symbolic Computation, Volume 47(6), 2012, 733-750.
